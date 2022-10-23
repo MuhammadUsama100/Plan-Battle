@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "712500183270",
+    "firebase_url": "https://flappyplane-b8f1c.firebaseio.com",
+    "project_id": "flappyplane-b8f1c",
+    "storage_bucket": "flappyplane-b8f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712500183270:android:a29c971dfc44c526",
+        "android_client_info": {
+          "package_name": "com.mygdx.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712500183270-cc8b08vp8o4iu8a8qgq1ntkj7mfg4um9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDifoVzOSiHgEbm-yk0D0H5SQH8EF94by0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712500183270-cc8b08vp8o4iu8a8qgq1ntkj7mfg4um9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
